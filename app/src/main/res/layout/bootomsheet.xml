@@ -21,6 +21,15 @@
         android:text="Country List"
         android:gravity="center_vertical"/>
 
+
+    <ListView
+        android:id="@+id/countryList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+
+ <!--
     <LinearLayout
         android:background="?attr/selectableItemBackground"
         android:focusable="true"
@@ -220,5 +229,6 @@
             android:layout_marginLeft="32dp"/>
 
     </LinearLayout>
+-->
 
 </LinearLayout>
